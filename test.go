@@ -1,5 +1,5 @@
 package test
-
+ghjk
 import "fmt"
 
 func test() {
