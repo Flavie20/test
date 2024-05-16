@@ -1,5 +1,7 @@
 package test
 
-func test() {
+import "fmt"
 
+func test() {
+ fmt.Println("bonjour")
 }
