@@ -1,7 +1,7 @@
 package test
-ghjk
+
 import "fmt"
 
 func test() {
- fmt.Println("bonjour")
+	fmt.Println("bonjour")
 }
