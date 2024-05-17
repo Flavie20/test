@@ -6,5 +6,5 @@ func main() {
 	fmt.Println("coucou les filles")
 }
 func euro() {
-	fmt.Println("comment vous allez, bien j'espere !")
+	fmt.Println("comment vous allez, bien j'espere!")
 }
