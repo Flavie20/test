@@ -3,7 +3,7 @@ package test
 import "fmt"
 
 func test() {
-	fmt.Println("coucou tout le monde")
+	fmt.Println("coucou les filles")
 }
 func euro() {
 
