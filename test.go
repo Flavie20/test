@@ -3,5 +3,5 @@ ghjk
 import "fmt"
 
 func test() {
- fmt.Println("bonjour")
+ fmt.Println("bonjour les digicodeuses")
 }
